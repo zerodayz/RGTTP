@@ -14,8 +14,7 @@
 
 ### INSERT YOUR CODE HERE
 
-
-# 4. My favourite food is "sushi", save it into a variable and using 
+# 4. My favourite food is "sushi", save it into a variable and using
 #    fast swapping operation change it with your variable.
 #    Now your favourite food should be "sushi" and mine will be yours.#
 
