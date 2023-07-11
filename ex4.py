@@ -10,7 +10,7 @@
 
 ### INSERT YOUR CODE HERE
 
-# 4. Write a function "show_shopping_list" that will return a shopping list created in 1. and print it out.
+# 4. Write a function "show_shopping_list" that will return a shopping list and print it out on the screen.
 
 ### INSERT YOUR CODE HERE
 
