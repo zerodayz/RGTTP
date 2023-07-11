@@ -1,4 +1,7 @@
-# 1. Identify type of the each variable below and add as a type hint during the declaration.
+"""
+ 1. Identify type of the each variable below and add as a type hint 
+    during the declaration.
+"""
 
 # For example:
 a: int = 2023
