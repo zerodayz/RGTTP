@@ -1,6 +1,8 @@
 # 1. Identify type of the each variable below and add as a type hint during the declaration.
 
-a = 2023
+# For example:
+a: int = 2023
+
 b = 42.5
 c = "42"
 d = "\u0CA0"
