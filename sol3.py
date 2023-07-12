@@ -20,4 +20,4 @@ print(((favourite_food + " ") * 42).strip())
 #    Now your favourite food should be "sushi" and mine will be yours.#
 
 new_favourite_food: str = "Sushi"
-favourite_food = new_favourite_food
+favourite_food, new_favourite_food = new_favourite_food, favourite_food
