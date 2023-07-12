@@ -1,0 +1,29 @@
+{
+    // Disable all telemetry
+    "telemetry.telemetryLevel": "off",
+
+    // Terminal configuration
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "AestheticIosevkaNerdFontCompleteM-",
+
+    // Python Ruler
+    "editor.rulers": [
+        {"column": 72, "color": "#333333"},
+        {"column": 79, "color": "#ff0000"},
+    ],
+
+    // Mypy Type Checker
+    // pip install mypy
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.mypyCategorySeverity.error":"Warning",
+
+    // Python style guide check
+    // pip install flake8
+    "python.linting.flake8Enabled": true,
+
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 1,
+}
