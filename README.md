@@ -18,4 +18,4 @@
   - ex1.py - List
   - ex2.py - List Comprehensions
   - ex3.py - Sorting Lists
-  - ex4.py - 
+  - ex4.py - List class
