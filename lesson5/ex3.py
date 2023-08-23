@@ -12,7 +12,7 @@
 
 # 3. Using following shopping list:
 # shopping_list: ['orange', 'banana', 'mandarin']
-# Print "Note to self, buy: " and then iterate 
+# Print "Note to self, buy: " and then iterate
 # over each element in the list
 
 # INSERT YOUR CODE HERE
